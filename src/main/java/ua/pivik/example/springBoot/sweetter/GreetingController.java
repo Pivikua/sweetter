@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * @autor Alexander Pivovarov
  */
+
 @Controller
 public class GreetingController {
 
@@ -17,5 +18,11 @@ public class GreetingController {
                            Model model){
         model.addAttribute("name", name);
         return "greeting";
+    }
+
+    @GetMapping
+    public String main(Model model) {
+        model.addAttribute("somedata", "somedata");
+        return "main";
     }
 }
