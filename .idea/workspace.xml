@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a086d75-47ed-4f5a-96fa-46104423e6ac" name="Default" comment="to Git">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
+    <list default="true" id="0a086d75-47ed-4f5a-96fa-46104423e6ac" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/pivik/example/springBoot/sweetter/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/pivik/example/springBoot/sweetter/GreetingController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -288,7 +286,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609183025109</updated>
       <workItem from="1609183032084" duration="7351000" />
-      <workItem from="1609279608881" duration="5385000" />
+      <workItem from="1609279608881" duration="5993000" />
     </task>
     <task id="LOCAL-00001" summary="to Git">
       <created>1609322321050</created>
@@ -304,11 +302,18 @@
       <option name="project" value="LOCAL" />
       <updated>1609323513835</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="to Git">
+      <created>1609333512287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609333512287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12736000" />
+    <option name="totallyTimeSpent" value="13344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1288" y="-261" width="1296" height="1040" extended-state="6" />
